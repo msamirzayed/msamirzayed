@@ -23,5 +23,5 @@ Technology enthusiast likes to make reality from dreams love problem solving, Ad
 ## 📫 Connect... 
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://msamirzayed.github.io/portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-samir01/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mahmoudsamir1924@gmail.com)
+
 
