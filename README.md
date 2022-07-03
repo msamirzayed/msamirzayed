@@ -1,6 +1,6 @@
 
 # Hi, I'm Mahmoud Samir! 👋
-A Frontend Developer ... a Dreamer 
+A Frontend Developer ... and kind of a dreamer.
 
 ## 🚀 About Me..
 
