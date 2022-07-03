@@ -19,7 +19,7 @@
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/msamirzayed)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/msamirzayed)
 #
-<img src="https://media.giphy.com/media/xUPGcjKy4Agbb6d928/giphy.gif" width="250"> <br/>
+<img src="https://media.giphy.com/media/xUPGcjKy4Agbb6d928/giphy.gif" width="200"> <br/>
 ## 📬 Conncet with me .. <br/>
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://msamirzayed.github.io/portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-samir01/)
