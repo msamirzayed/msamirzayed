@@ -16,7 +16,6 @@
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/msamirzayed)
 
 🌱 I'm currently learning : <br/> <br/>
-
 [![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/msamirzayed)
 [![flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)](https://github.com/msamirzayed)
 <br/>
