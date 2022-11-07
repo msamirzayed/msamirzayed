@@ -24,7 +24,7 @@
 #
 <img src="https://media.giphy.com/media/xUPGcjKy4Agbb6d928/giphy.gif" width="200"> <br/>
 ## 📬 Connect with me .. <br/>
-[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://msamirzayed.github.io/portfolio/)
+[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://modsamir.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-samir01/)
 </div>
 
