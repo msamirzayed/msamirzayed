@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi, I'm Mahmoud Samir!! 👋</h1>
-<h2 align="center">A Frontend Developer ... and kind of a dreamer</h2>
-<h3 align="center">A Passionate Developer & Technology Enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-
+<h2 align="center">A Frontend Developer ... and kind of a dreamer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 #
 <div align="center">
