@@ -27,7 +27,12 @@
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/msamirzayed)
 #
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQyczVhOHM0d3g3aGI1ZmJocnhhOXdnbW80OXdmeXI3ZzE4ejF2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KibK3JwaVo0CjDO/giphy.gif" width="200"> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=msamirzayed&theme=dark&hide_border=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=msamirzayed&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=-?&row=2&column=3)<br/>
+
+
+
+
 ## 📬 Connect with me .. <br/>
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://modsamir.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-samir01/)
