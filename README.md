@@ -25,11 +25,6 @@
 🌱 I'm currently learning : <br/> <br/>
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/msamirzayed)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/msamirzayed)
-#
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=msamirzayed&theme=dark&hide_border=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=msamirzayed&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=-?&row=2&column=3)<br/>
-
 
 
 
