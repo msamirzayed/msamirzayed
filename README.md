@@ -39,21 +39,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=msamirzayed&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msamirzayed&theme=react-dark&hide_border=true" alt="GitHub Activity Heatmap" />
+ 
 </p>
   <br />
 
 ---
 
 
-### 🔗 Let's Link Up
-
-- 💼 [modsamir.com](https://modsamir.com) – Portfolio  
-- 🧠 [LinkedIn](https://linkedin.com/in/mahmoud-samir01) – Career stuff  
-- 🧪 [GitHub](https://github.com/msamirzayed) – Code lab  
-- 📬 mahmoudsamir1924@gmail.com – Email me for anything frontend (or memes)
-
----
 
 > _“Any fool can write code that a computer can understand. Good developers write code that humans can understand.”_ – Martin Fowler
 
