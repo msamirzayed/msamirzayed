@@ -1,6 +1,6 @@
 <!-- Profile Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Mahmoud+Samir+Zayed+%F0%9F%91%8B;Senior+Frontend+Engineer+%F0%9F%94%A5;Crafting+Web+%26+Mobile+Magic%E2%9C%A8;Always+Pixel-Perfect%2C+Never+Pixel-Lazy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Mahmoud+Samir+Zayed+%F0%9F%91%8B;Full+Stack+Software+Engineer+%F0%9F%9A%80;Building+Web+%26+Mobile+Experiences%E2%9C%A8;Clean+Code+%7C+Scalable+Systems+%7C+Great+UX" />
 </p>
 
 <!-- Badges -->
@@ -13,32 +13,32 @@
 
 ### 🧑‍💻 About Me
 
-💻 Full-time UI architect, part-time CSS whisperer, always passionate about building sleek, scalable, and smart web/mobile applications.  
-⚡ Always looking for the next tech frontier to conquer — whether it’s zoneless Angular, hybrid apps, or building micro frontends.
+💻 Full-Stack Software Engineer building **end-to-end web and mobile applications** that combine elegant UIs with powerful backends.  
+⚡ Strong believer in performance-first engineering — scalable systems, fast load times, and seamless user experiences across platforms.  
+🌍 Experienced across diverse industries: aviation, fintech, industrial platforms, and beyond.  
+
+---
 
 ### ⚡ Core Superpowers
 
-✅ Pixel-perfect UI & component architecture  
-✅ Reactive, stream-based programming with RxJS  
-✅ Modular design using scalable frontend architecture  
-✅ Leadership, mentorship & elevating team code quality  
-✅ Agile mindset with a strong product focus  
+✅ Designing pixel-perfect, scalable UIs  
+✅ Architecting maintainable full-stack applications  
+✅ Backend services with Node.js, .NET & REST APIs  
+✅ Cross-platform mobile with Ionic & Flutter  
+✅ Mentorship, leadership & clean code advocacy  
+✅ Agile mindset with strong product focus  
 
 ---
 
 ### 🛠️ Tech Playground
 
-| 🧠 Frontend         | 📱 Mobile         | 🎨 Styling                  | 🔁 State Mgmt     | 🧰 Tools               | ⚙️ Backend-ish     |
-|---------------------|------------------|-----------------------------|-------------------|------------------------|--------------------|
-| Angular, React, Vue | Ionic, Flutter   | Tailwind, SCSS, Material UI | NgRx, RxJS, Vuex  | Git, CI/CD, Firebase   | Node.js, REST APIs |
+| 🧠 Frontend              | 📱 Mobile         | 🎨 Styling                  | 🔁 State Mgmt     | ⚙️ Backend            | 🧰 Tools & DevOps        |
+|--------------------------|------------------|-----------------------------|-------------------|-----------------------|--------------------------|
+| Angular, React, Vue      | Ionic, Flutter   | Tailwind, SCSS, Material UI | NgRx, RxJS, Vuex  | Node.js, .NET, REST   | Git, Docker, CI/CD, Firebase |
 
 ---
 
-
-
-
-
-> _“Any fool can write code that a computer can understand. Good developers write code that humans can understand.”_ – Martin Fowler
+> _“Any fool can write code that a computer can understand. Good developers write code that humans can understand.”_ – Martin Fowler  
 
 ---
 
